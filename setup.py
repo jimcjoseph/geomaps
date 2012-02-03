@@ -18,9 +18,9 @@ setup(
     ],
     license="BSD",
     keywords="geonode django",
-    url='https://github.com/ingenieroariel/geomaps',
+    url='https://github.com/jim/geomaps',
     scripts = [
-               'scripts/passport',
+               'scripts/geomaps',
               ],
     packages=find_packages('.'),
     include_package_data=True,
